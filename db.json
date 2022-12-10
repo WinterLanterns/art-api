@@ -15,7 +15,7 @@
     {
       "id": 2,
       "title": "Gold Eyes",
-      "price": 30.3,
+      "price": 30.38,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in.",
       "category": "shirts",
       "image": "https://i.ibb.co/wzQJ8Qc/shirt1.png",
@@ -51,7 +51,7 @@
     {
       "id": 5,
       "title": "Gold King",
-      "price": 695,
+      "price": 695.99,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
       "category": "jewelry",
       "image": "https://i.ibb.co/LzWhtPY/Jewellery-PNG.png",
@@ -63,7 +63,7 @@
     {
       "id": 6,
       "title": "Solid Gold Swirl Ring",
-      "price": 468,
+      "price": 468.99,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
       "category": "jewelry",
       "image": "https://i.ibb.co/zGvDTXn/Jewellery-Free-Download-PNG.png",
@@ -75,7 +75,7 @@
     {
       "id": 7,
       "title": "Gold Plated Princess",
-      "price": 999,
+      "price": 999.99,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "category": "jewelry",
       "image": "https://i.ibb.co/zXdc77h/Jewellery-PNG-Image.png",
@@ -87,7 +87,7 @@
     {
       "id": 8,
       "title": "Baby Boo",
-      "price": 80,
+      "price": 80.99,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ",
       "category": "hoodie",
       "image": "https://i.ibb.co/bBv7VmS/hoodie4.png",
@@ -99,7 +99,7 @@
     {
       "id": 9,
       "title": "Doggos",
-      "price": 104,
+      "price": 104.99,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
       "category": "hoodie",
       "image": "https://i.ibb.co/987vbrs/hoodie3.png",
@@ -111,7 +111,7 @@
     {
       "id": 10,
       "title": "Traditional Lady",
-      "price": 109,
+      "price": 109.99,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "category": "hoodie",
       "image": "https://i.ibb.co/djRp8Yv/hoodie2.png",
@@ -123,7 +123,7 @@
     {
       "id": 11,
       "title": "Traditional Dog",
-      "price": 109,
+      "price": 109.99,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.",
       "category": "hoodie",
       "image": "https://i.ibb.co/6YMq5DN/hoodie1.png",
