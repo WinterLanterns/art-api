@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/WinterLanterns/art-api#readme",
   "dependencies": {
+    "heroku": "^7.67.1",
     "json-server": "^0.17.1"
   }
 }
